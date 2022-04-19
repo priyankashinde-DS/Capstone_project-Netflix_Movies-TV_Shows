@@ -8,13 +8,15 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
-## **In this project, you are required to do Exploratory Data Analysis**
+## **In this project, you are required to do**
 
-Understanding what type content is available in different countries
+* Exploratory Data Analysis
 
-Is Netflix has increasingly focusing on TV rather than movies in recent years.
+* Understanding what type content is available in different countries
 
-Clustering similar content by matching text-based features
+* Is Netflix has increasingly focusing on TV rather than movies in recent years.
+
+* Clustering similar content by matching text-based features
 
 ## **Attribute Information**
 
