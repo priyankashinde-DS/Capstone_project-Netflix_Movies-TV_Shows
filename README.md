@@ -1,4 +1,4 @@
-# Capstone_project-Netflix_Movies-TV_Shows
+# Netflix Movies and TV Shows Clustring
 ---
 ## **Problem Statement**
 
