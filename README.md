@@ -51,3 +51,27 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * **listed_in :** Genere
 
 * **description:** The Summary description
+
+## **Conclusion**
+
+**1) We observe that in this dataset 4,000+ movies and almost 2,000 shows with movies being the majority. This makes sense since shows are always an ongoing thing and have episodes.in terms of title, there are far more movie titles (69.1%) than TV show titles (30.9%).**
+
+**2) Films typically are available in multiple countries as shown in the dataset. Therefore, we need to seperate all countries within a film before we can analyze the data(create first_country column). After seperating countries and removing titles with no countries available, we can plot a Top 10 list to see which countries have the highest availability of films on Netflix. Unsurprisingly, the United States stands out on top since Netflix is an American company. India surprisingly comes in second followed by the UK and Canada.**
+
+**3) In terms of genres, international movies takes the cake surprisingly followed by dramas and comedies. Even though the United States has the most content available, it looks like Netflix has decided to release a ton of international movies. The reason for this could be that most Netflix subscribers aren't actually in the United States, but rather the majority of viewers are actually international subscribers.**
+
+**4) From the lineplot we can conclude that the most number of TV Shows released in 2017 and for Movies it is 2020.Spain have the newest content overall(both Movie & TV-Shows)**
+
+**5) The end & beginnings of each year seem to be Netflix's preference for adding content.Least number of contents are added in the month of February.**
+
+**6) On netflix there is much more content for a more mature audience. For the mature audience, there is much more movie content than there are TV shows. However, for the younger audience (under the age of 17), it is the opposite, there are slightly more TV shows than there are movies.**
+
+**7) The most popular actor on Netflix movie, based on the number of titles, is Anupam Kher.**
+
+**8) The most popular actor on Netflix TV Shows based on the number of titles is Takahiro Sakurai.**
+
+**9) In text analysis (NLP) I used stop words, removed punctuations , stemming & TF-IDF vectorizer and other functions of NLP.**
+
+**10) We Applied different clustering models like Kmeans, Agglomerative clustering, DBSCAN on data we got the best cluster arrangements.**
+
+**11)  By applying different clustering algorithms to our dataset .we get the optimal number of cluster is equal to 3.**
