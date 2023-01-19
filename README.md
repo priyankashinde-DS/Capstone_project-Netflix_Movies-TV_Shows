@@ -1,4 +1,4 @@
- #                                                                Netflix Movies and TV Shows Clustring
+ #   🍿🥤                                                             **Netflix Movies and TV Shows Clustring**
  
 I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.
 ![image](https://user-images.githubusercontent.com/87980985/212687453-28d4d6f1-c6d4-484e-8c0c-615aca0a3afa.png)
