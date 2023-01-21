@@ -75,3 +75,11 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 **10) We Applied different clustering models like Kmeans, Agglomerative clustering, DBSCAN on data we got the best cluster arrangements.**
 
 **11)  By applying different clustering algorithms to our dataset .we get the optimal number of cluster is equal to 3.**
+
+## **📚 References**
+
+ https://www.kaggle.com/code/onyonixch/netflix-movies-tv-shows-eda-and-clustering
+ 
+ https://www.youtube.com/watch?v=d320GGtY-3s
+
+
