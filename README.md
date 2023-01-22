@@ -46,29 +46,13 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
-* **show_id :** Unique ID for every Movie / Tv Show
 
-* **type :** Identifier - A Movie or TV Show
 
-* **title :** Title of the Movie / Tv Show
+![image](https://user-images.githubusercontent.com/87980985/213904069-06e1523e-2ce8-40c4-a499-896568d80bea.png)
 
-* **director :** Director of the Movie
+### **First 5 rows of dataset**
 
-* **cast :** Actors involved in the movie / show
-
-* **country :** Country where the movie / show was produced
-
-* **date_added :** Date it was added on Netflix
-
-* **release_year :** Actual Releaseyear of the movie / show
-
-* **rating :** TV Rating of the movie / show
-
-* **duration :** Total Duration - in minutes or number of seasons
-
-* **listed_in :** Genere
-
-* **description:** The Summary description
+![Screenshot 2023-01-22 122014](https://user-images.githubusercontent.com/87980985/213904290-c8165987-7e98-4f94-8140-846cd4da0c33.png)
 
 ## **Conclusion**
 
