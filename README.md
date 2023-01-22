@@ -1,9 +1,10 @@
  #   🍿🥤                                                             **Netflix Movies and TV Shows Clustring**
  
-I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.
 ![image](https://user-images.githubusercontent.com/87980985/212687453-28d4d6f1-c6d4-484e-8c0c-615aca0a3afa.png)
 
-  AlmaBetter Verfied Project - AlmaBetter
+In this project i have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.
+
+ AlmaBetter Verfied Project - AlmaBetter
 
 
 ## **📖Introduction**
@@ -18,13 +19,18 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 ## **Steps Involved:**
 
-* Exploratory Data Analysis
 
-* Understanding what type content is available in different countries
+**1. Exploratory Data Analysis:**
 
-* Is Netflix has increasingly focusing on TV rather than movies in recent years.
+* **a. Understanding the data-** In this step after loading the data I performed head, tail, columns, info, dtypes, describe functions to get basic information about our dataset.
 
-* Clustering similar content by matching text-based features
+* **b. Checking for missing & duplicated values-**  Then I checked for missing values in our dataset using is null function. Some of our features had missing values that I filled with ‘unknown’
+
+**2. Cleaning Dataset & Feature Engineering-** As some of our features has got null values, I filled all null values with ‘unknown’ using fillna method. Then I extracted date, month and year from date added column. Renamed the listed in column to genres.
+
+**3. Data Visualization –** In data visualization I got some insights like, in type of content, around 69% content as movies and remaining 31% as TV shows are present on Netflix. Then in genres International movies, dramas and comedies are most occurred types. In content addition day wise we can clearly spot the insights that Netflix majorly add the content on the 1st day of every month. In rating column most of the given rating is for mature adults (TV-MA) for both TV shows and Movies. In countries column US, India and UK are the top 3 most occurred countries. Then another graph shows that from 2017 number of Movies added increased tremendously, but at the same time TV shows added from 2017 are also increased but as comparison to Movies they are very less in numbers
+
+**4. Feature Engineering-** After data visualization I did feature engineering in which I added a new column which contains all the text and categorical column data, so that we can work on entire text data. Then used snowball stemming to stem the text into the column. After stemming and other cleaning operations I applied TF-IDF vectorizer on the text. Applied Principal Component Analysis (PCA) to reduce the dimensions of X.
 
 ## **📖 Data Summery**
 
