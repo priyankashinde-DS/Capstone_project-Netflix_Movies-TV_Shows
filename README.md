@@ -63,8 +63,6 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 ![image](https://user-images.githubusercontent.com/87980985/213904598-64544935-a216-4c98-8e33-7985dbc4146b.png)
 
 
-https://colab.research.google.com/drive/1L6iqj1GVoH6i7tDj7YNTuHWIxUuMfnhZ#scrollTo=wVW8A3pTGbD-&line=1&uniqifier=1
-
 **2) Is Netflix has increasingly focusing on TV rather than movies in recent years?**
 ![image](https://user-images.githubusercontent.com/87980985/213904909-6e44fa8b-0ea5-45a1-93a9-bbf7d41cbc0e.png)
 
