@@ -17,6 +17,20 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
+
+## **📖 Data Summery**
+
+This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
+
+
+
+![image](https://user-images.githubusercontent.com/87980985/213904069-06e1523e-2ce8-40c4-a499-896568d80bea.png)
+
+### **First 5 rows of dataset**
+
+![Screenshot 2023-01-22 122014](https://user-images.githubusercontent.com/87980985/213904290-c8165987-7e98-4f94-8140-846cd4da0c33.png)
+
+
 ## **Steps Involved:**
 
 
@@ -40,19 +54,6 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 **6. Evaluating Models**
 
 * **Silhouette Score -** Silhouette analysis can be used to study the separation distance between the resulting clusters. The silhouette plot displays a measure of how close each point in one cluster is to points in the neighboring clusters and thus provides a way to assess parameters like number of clusters visually. This measure has a range of [-1, 1]. We selected number of clusters as 15 which in above calculations showing 0.78 as silhouette score
-
-
-## **📖 Data Summery**
-
-This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
-
-
-
-![image](https://user-images.githubusercontent.com/87980985/213904069-06e1523e-2ce8-40c4-a499-896568d80bea.png)
-
-### **First 5 rows of dataset**
-
-![Screenshot 2023-01-22 122014](https://user-images.githubusercontent.com/87980985/213904290-c8165987-7e98-4f94-8140-846cd4da0c33.png)
 
 ## **Conclusion**
 
