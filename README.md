@@ -55,6 +55,21 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 * **Silhouette Score -** Silhouette analysis can be used to study the separation distance between the resulting clusters. The silhouette plot displays a measure of how close each point in one cluster is to points in the neighboring clusters and thus provides a way to assess parameters like number of clusters visually. This measure has a range of [-1, 1]. We selected number of clusters as 15 which in above calculations showing 0.78 as silhouette score
 
+
+## **Asking and Answering Questions**
+
+**1) What type content is available in different countries?**
+
+![image](https://user-images.githubusercontent.com/87980985/213904598-64544935-a216-4c98-8e33-7985dbc4146b.png)
+
+
+https://colab.research.google.com/drive/1L6iqj1GVoH6i7tDj7YNTuHWIxUuMfnhZ#scrollTo=wVW8A3pTGbD-&line=1&uniqifier=1
+
+**2) Is Netflix has increasingly focusing on TV rather than movies in recent years?**
+![image](https://user-images.githubusercontent.com/87980985/213904909-6e44fa8b-0ea5-45a1-93a9-bbf7d41cbc0e.png)
+
+**NO, It appears that Netflix has focused more attention on increasing Movie content that TV Shows. Movies have increased much more dramatically than TV shows.**
+
 ## **Conclusion**
 
 **1) We observe that in this dataset 4,000+ movies and almost 2,000 shows with movies being the majority. This makes sense since shows are always an ongoing thing and have episodes.in terms of title, there are far more movie titles (69.1%) than TV show titles (30.9%).**
