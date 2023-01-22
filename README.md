@@ -60,13 +60,23 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 **1) What type content is available in different countries?**
 
-![image](https://user-images.githubusercontent.com/87980985/213904598-64544935-a216-4c98-8e33-7985dbc4146b.png)
+![image](https://user-images.githubusercontent.com/87980985/213905118-100ca4d5-7c03-469d-9ed1-4465204479fa.png)
+
+**Here we see interesting differences between countries. Most shows in India are targeted to teens, for instance.**
 
 
 **2) Is Netflix has increasingly focusing on TV rather than movies in recent years?**
 ![image](https://user-images.githubusercontent.com/87980985/213904909-6e44fa8b-0ea5-45a1-93a9-bbf7d41cbc0e.png)
 
 **NO, It appears that Netflix has focused more attention on increasing Movie content that TV Shows. Movies have increased much more dramatically than TV shows.**
+
+**3) What are the top 10 country on Netflix?**
+
+![image](https://user-images.githubusercontent.com/87980985/213905185-e050973a-0c24-406f-8b30-0a828bdea8bd.png)
+
+* **The most prolific producers of content for Netflix are, primarily, the USA, with India and the UK a significant distance behind.**
+
+* **It makes sense that the USA produces the most content as, afterall, Netflix is a US company.**
 
 ## **Conclusion**
 
