@@ -32,7 +32,19 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 **4. Feature Engineering-** After data visualization I did feature engineering in which I added a new column which contains all the text and categorical column data, so that we can work on entire text data. Then used snowball stemming to stem the text into the column. After stemming and other cleaning operations I applied TF-IDF vectorizer on the text. Applied Principal Component Analysis (PCA) to reduce the dimensions of X.
 
+
+**5. Model Building**
+
+* **KMeans Clustering-** K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters The K-Elbow Visualizer implements the “elbow” method of selecting the optimal number of clusters for K-means clustering. Then no. of cluster k=15 selected. After that fitted the model on data and then predicted the labels. Then assigned the clusters in datasets and then visualized each cluster using word cloud.
+
+**6. Evaluating Models**
+
+* **Silhouette Score -** Silhouette analysis can be used to study the separation distance between the resulting clusters. The silhouette plot displays a measure of how close each point in one cluster is to points in the neighboring clusters and thus provides a way to assess parameters like number of clusters visually. This measure has a range of [-1, 1]. We selected number of clusters as 15 which in above calculations showing 0.78 as silhouette score
+
+
 ## **📖 Data Summery**
+
+This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Fixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
 * **show_id :** Unique ID for every Movie / Tv Show
 
