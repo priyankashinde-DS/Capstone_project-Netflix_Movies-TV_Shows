@@ -49,7 +49,7 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 **5. Model Building**
 
-* **KMeans Clustering-** K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters The K-Elbow Visualizer implements the “elbow” method of selecting the optimal number of clusters for K-means clustering. Then no. of cluster k=15 selected. After that fitted the model on data and then predicted the labels. Then assigned the clusters in datasets and then visualized each cluster using word cloud.
+* **KMeans Clustering-** K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters The K-Elbow Visualizer implements the “elbow” method of selecting the optimal number of clusters for K-means clustering. Then no. of cluster k=3 selected. After that fitted the model on data and then predicted the labels.
 
 **6. Evaluating Models**
 
